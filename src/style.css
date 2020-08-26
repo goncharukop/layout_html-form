@@ -1,15 +1,15 @@
-div {
+.margin10 {
   margin-bottom: 10px;
 }
 
-fieldset {
+.margin20 {
   margin-bottom: 20px;
 }
 
-div:last-child {
+.margin10:last-child {
   margin-bottom: 0;
 }
 
-fieldset:last-child {
+.margin20:last-child {
   margin-bottom: 0;
 }
